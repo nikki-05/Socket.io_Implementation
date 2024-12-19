@@ -1,0 +1,19 @@
+{
+  "name": "socket.io_implementation",
+  "version": "1.0.0",
+  "description": "This Project is a demo how to implement socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Socket.io_Implementation"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
